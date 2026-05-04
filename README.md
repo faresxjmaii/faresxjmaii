@@ -16,7 +16,9 @@ It helps learners save vocabulary, review words, practice verbs, take notes, use
 
 ## 🛠️ Skills
 
-React / Vite · JavaScript · Tailwind CSS · IndexedDB / Dexie · Git / GitHub · UI/UX basics · AI integration · Social Media Marketing · Graphic Design
+· React / Vite · JavaScript · Tailwind CSS · IndexedDB / Dexie · Git / GitHub · UI/UX basics 
+· AI integration 
+· Social Media Marketing · Graphic Design
 
 ## 📌 Currently learning
 
