@@ -1,6 +1,6 @@
 # Hi, I'm Fares Jmai 👋
 
-I'm a Computer Science student based in Italy, interested in web development, AI tools, digital marketing, and building useful learning applications.
+Computer Science student based in Italy, interested in web development, AI tools, digital marketing, and building useful learning apps.
 
 ## 🚀 Featured Project
 
@@ -12,28 +12,17 @@ It helps learners save vocabulary, review words, practice verbs, take notes, use
 **Tech stack:** React, Vite, Tailwind CSS, Dexie, IndexedDB, React Router, AI APIs
 
 🔗 Live Demo: https://italian-learning-app-mocha.vercel.app  
-📂 GitHub Repo: https://github.com/faresxjmaii/italian-learning-app
+📂 Repository: https://github.com/faresxjmaii/italian-learning-app
 
 ## 🛠️ Skills
 
-- React / Vite
-- JavaScript
-- Tailwind CSS
-- IndexedDB / Dexie
-- Git / GitHub
-- UI/UX basics
-- AI integration
-- Social Media Marketing
-- Graphic Design
+React / Vite · JavaScript · Tailwind CSS · IndexedDB / Dexie · Git / GitHub · UI/UX basics · AI integration · Social Media Marketing · Graphic Design
 
 ## 📌 Currently learning
 
-- Advanced React
-- Italian language
-- AI-powered web apps
-- Full-stack development
+Advanced React · Italian language · AI-powered web apps · Full-stack development
 
 ## 📫 Contact
 
-- GitHub: @faresxjmaii
-- Location: Italy
+GitHub: @faresxjmaii  
+Location: Italy
