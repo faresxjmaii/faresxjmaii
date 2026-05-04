@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Fares Jmai 👋
 
-<!--
-**faresxjmaii/faresxjmaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student based in Italy, interested in web development, AI tools, digital marketing, and building useful learning applications.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Il Mio Vocabolario Italiano
+A local-first Italian learning web app built with React, Vite, Tailwind CSS and IndexedDB.
+
+It helps learners save vocabulary, review words, practice verbs, take notes, use a focus timer, and improve pronunciation with video-based learning.
+
+**Tech stack:** React, Vite, Tailwind CSS, Dexie, IndexedDB, React Router, AI APIs
+
+🔗 Live Demo: https://italian-learning-app-mocha.vercel.app  
+📂 GitHub Repo: https://github.com/faresxjmaii/italian-learning-app
+
+## 🛠️ Skills
+
+- React / Vite
+- JavaScript
+- Tailwind CSS
+- IndexedDB / Dexie
+- Git / GitHub
+- UI/UX basics
+- AI integration
+- Social Media Marketing
+- Graphic Design
+
+## 📌 Currently learning
+
+- Advanced React
+- Italian language
+- AI-powered web apps
+- Full-stack development
+
+## 📫 Contact
+
+- GitHub: @faresxjmaii
+- Location: Italy
